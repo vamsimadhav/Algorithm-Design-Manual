@@ -26,6 +26,7 @@ We can find that the
 2 mile road takes **30 min** to complete the journey
 
 Hence 2mile road is the solution
+![soln](https://github.com/vamsimadhav/Algorithm-Design-Manual/blob/main/1.Introduction%20to%20Algorithm%20Design/Exercises/1.Finding%20Counter%20Examples/Supporting%20Resources/1-3.jpeg?raw=true)
 
  ### 1-4) Design / draw a road network with two points and such that the shortest route between and is not the route with the fewest turns.  
 Suppose a = (0,0) and b = (0,10) .  
@@ -40,9 +41,10 @@ Therefore Route 2 is shorter, but has more turns than Route 1.
 * Put the elements of in the knapsack in left to right order if they fit, i.e. the first-fit algorithm.
 * Put the elements of in the knapsack from smallest to largest, i.e. the best-fit algorithm.
 * Put the elements of in the knapsack from largest to smallest.
+  ![Soln](https://github.com/vamsimadhav/Algorithm-Design-Manual/blob/main/1.Introduction%20to%20Algorithm%20Design/Exercises/1.Finding%20Counter%20Examples/Supporting%20Resources/1-5.png?raw=true)
 
 
-
+#### 1-6) ![Question 1-6](https://github.com/vamsimadhav/Algorithm-Design-Manual/blob/main/1.Introduction%20to%20Algorithm%20Design/Exercises/1.Finding%20Counter%20Examples/Supporting%20Resources/1-6q.png?raw=true)  
 Let **U = {1, 2, 3, 4, 5, 6}**  
 Let S1 = {1,2,3}, S2 = {2,4}, S3 = {1,4}, S4 = {2,5}, S5 = {5}, S6 = {6}, S7 = {3,6}, S8 = {4}
 
